@@ -6,8 +6,6 @@
  <a href="https://binnazcabuk9.medium.com/"><img height="30" src="https://user-images.githubusercontent.com/34273337/115771715-f5507c00-a3b6-11eb-9295-3611ff835df3.png" title="Medium"></a>&nbsp;&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/binnaz-cabuk/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" title="Linkedin"></a>&nbsp;&nbsp;&nbsp;
  <a href="mailto:binnazcabuk9@gmail.com"><img height="30" src="https://user-images.githubusercontent.com/34273337/115772352-ae16bb00-a3b7-11eb-848f-475858267f79.png" title="Gmail"></a>&nbsp;&nbsp;&nbsp;
- <a href="https://twitter.com/cbk_b61"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" title="Twitter"></a>&nbsp;&nbsp;&nbsp;
- <a href="https://www.hackerrank.com/binnazcabuk9"><img height="30" src="https://user-images.githubusercontent.com/34273337/115774517-5d549180-a3ba-11eb-9e1f-9d3a73030be9.png" title="HackerRank"></a>&nbsp;&nbsp;&nbsp;
  <a href="https://stackoverflow.com/users/11232255/binnaz-cabuk?tab=profile"><img height="30" src="https://user-images.githubusercontent.com/34273337/115774519-5ded2800-a3ba-11eb-9ed1-68ca5a58525e.png" title="Stack Overflow"></a>&nbsp;&nbsp;&nbsp;
 
  </p>
@@ -24,7 +22,7 @@
  <p align='center'>
 🔭 I’m currently developing myself on <b>Software Development</b>
  <br>
-🌱 I’m currently learning <b>Angular,React</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🌱 I’m currently learning <b>.NET CORE</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 💻 I love writing code and learn anythings about it &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <br>
