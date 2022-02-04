@@ -36,17 +36,15 @@
 
 <p align="center">
     <a href=""><img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"></a>
-    <a href=""><img alt="CSS" src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a>
-    <a href=""><img alt="HTML" src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
-    <a href=""><img alt="Java" src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"></a>
-    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"></a>
-    <a href=""><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a>
-    <a href=""><img alt="Angular" src="https://img.shields.io/badge/angular-critical?&style=for-the-badge&logo=angular&logoColor=white"></a>
-    <a href=""><img alt="React" src="https://img.shields.io/badge/react%20-%23007ACC.svg?&style=for-the-badge&logo=react&logoColor=white"></a>
     <a href=""><img alt=".NET" src="https://img.shields.io/badge/.net%20core-mediumslateblue?&style=for-the-badge&logo=.net&logoColor=white"></a>
+    <a href=""><img alt="Docker" src="https://img.shields.io/badge/docker-%23007396.svg?&style=for-the-badge&logo=docker&logoColor=white"></a>
+    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"></a>
+    <a href=""><img alt="MongoDB" src="https://img.shields.io/badge/mongodb%20-%2343853D.svg?&style=for-the-badge&logo=mongodb&logoColor=white"></a>
+    <a href=""><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href=""><img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-critical?&style=for-the-badge&logo=postgresql&logoColor=white"></a>
+    <a href=""><img alt="Redis" src="https://img.shields.io/badge/redis%20-%23E34F26.svg?&style=for-the-badge&logo=redis&logoColor=white"></a>
     <a href=""><img alt="Mssql" src="https://img.shields.io/badge/MsSQL-gray?&style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white"></a>
-   
+    <a href=""><img alt="RabbitMQ" src="https://img.shields.io/badge/RABB%C4%B0TMQ-FF6C37?style=for-the-badge&logo=rabbitmq&logoColor=white"></a> 
    <a href=""><img alt="Vscode" src="https://img.shields.io/badge/visual%20studio%20code-dodgerblue?&style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
    <a href=""><img alt="Git" src="https://img.shields.io/badge/G%C4%B0T-tomato?&style=for-the-badge&logo=git&logoColor=white"></a>
    <a href=""><img alt="Vs" src="https://img.shields.io/badge/visual%20studio-dodgerblue?&style=for-the-badge&logo=visual-studio&logoColor=white"></a>
@@ -54,7 +52,10 @@
    <a href=""><img alt="Netbeans" src="https://img.shields.io/badge/NetBeans%20-%23007ACC.svg?&style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white"></a>
    <a href=""><img alt="Spyder" src="https://img.shields.io/badge/Spyder-gray?&style=for-the-badge&logo=spyder-IDE&logoColor=white"></a>
    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=for-the-badge&logo=Repl.it&logoColor=white"></a>
+    <a href="#"><img alt="Portainer" src="https://img.shields.io/badge/portainer-%2314334C?style=for-the-badge&logo=portainer&logoColor=white"></a>
+    <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/swagger-%2914334C?style=for-the-badge&logo=swagger&logoColor=white"></a>
+    <a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/DBEAVER-a8834C?style=for-the-badge&logo=Dbeaver&logoColor=white"></a> 
+   <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=for-the-badge&logo=Repl.it&logoColor=white"></a>
 </p>
 
 <hr>
