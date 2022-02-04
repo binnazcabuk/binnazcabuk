@@ -16,7 +16,7 @@
 <p align='center'>
 <a href="https://github.com/DenverCoder1">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/binnazcabuk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
- <a href="https://badges.pufler.dev/visits/binnazcabuk/binnazcabuk"> <img alt="binnaz github" src="https://badges.pufler.dev/visits/binnazcabuk/binnazcabuk"> </a>
+ <a href="https://badges.pufler.dev/visits/binnazcabuk/binnazcabuk"> <img alt="binnaz github" src="https://badges.pufler.dev/visits/binnazcabuk/binnazcabuk" height="5"> </a>
  </p>
  
  <p align='center'>
