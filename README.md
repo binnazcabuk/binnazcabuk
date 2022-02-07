@@ -7,27 +7,25 @@
  <a href="https://www.linkedin.com/in/binnaz-cabuk/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" title="Linkedin"></a>&nbsp;&nbsp;&nbsp;
  <a href="mailto:binnazcabuk9@gmail.com"><img height="30" src="https://user-images.githubusercontent.com/34273337/115772352-ae16bb00-a3b7-11eb-848f-475858267f79.png" title="Gmail"></a>&nbsp;&nbsp;&nbsp;
  <a href="https://stackoverflow.com/users/11232255/binnaz-cabuk?tab=profile"><img height="30" src="https://user-images.githubusercontent.com/34273337/115774519-5ded2800-a3ba-11eb-9ed1-68ca5a58525e.png" title="Stack Overflow"></a>&nbsp;&nbsp;&nbsp;
-
  </p>
- <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Binnaz Çabuk | 💻 Jr. Software Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
  
+  <p align='center'>
+🔭 I’m currently developing myself on <b>Software Development</b>
+ <br>
+🌱 I’m currently learning <b>.NET CORE</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+💻 I love writing code and learn anythings about it &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <br>
+💬 Ask me about anything, I am happy to help;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ </p>
+
 <p align='center'>
 <a href="https://github.com/DenverCoder1">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/binnazcabuk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
  <a href="https://badges.pufler.dev/visits/binnazcabuk/binnazcabuk"> <img alt="binnaz github" src="https://badges.pufler.dev/visits/binnazcabuk/binnazcabuk" height="28"> </a>
  </p>
  
- <p align='center'>
-🔭 I’m currently developing myself on <b>Software Development</b>
- <br>
-🌱 I’m currently learning <b>.NET CORE</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>
-💻 I love writing code and learn anythings about it &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <br>
-💬 Ask me about anything, I am happy to help;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- </p>
+
 
 <hr>
 <div align="center">
