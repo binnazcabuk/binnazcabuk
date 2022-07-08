@@ -20,9 +20,10 @@
                 <br>
                 <br>
         </samp>
+      </p>
         <!-- Programming Languages -->
         <!-- Code logo -->
-        
+     <p>   
     <a href=""><img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"></a>
     <a href=""><img alt=".NET" src="https://img.shields.io/badge/.net%20core-mediumslateblue?&style=for-the-badge&logo=.net&logoColor=white"></a>
     <a href=""><img alt="Docker" src="https://img.shields.io/badge/docker-%23007396.svg?&style=for-the-badge&logo=docker&logoColor=white"></a>
