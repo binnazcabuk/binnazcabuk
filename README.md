@@ -16,8 +16,7 @@
                 <br>
                 「 I’m currently learning <b>.NET CORE and VueJs</b> 」
                 <br>
-                「 Ask me about anything, I am happy to help 」
-                 
+                「 Ask me about anything, I am happy to help 」                
                 <br>
                 <br>
         </samp>
