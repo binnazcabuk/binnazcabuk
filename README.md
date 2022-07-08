@@ -85,9 +85,8 @@
 
 
 <!-- Pinned Repositories -->
-<p align='center'>
 ![snake svg](https://github.com/binnazcabuk/binnazcabuk/blob/output/github-contribution-grid-snake.svg)
-</p>
+
 
 <!--
 **binnazcabuk/binnazcabuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
