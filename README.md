@@ -9,10 +9,6 @@
 </h3>
 <br>
 
-<div align="center">
-   <h1><img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="70px"> , I'm Binnaz</a>  </h1> 
-</div>
-
 <p align="center">
         <!-- Organisation  -->
         <samp>
