@@ -26,7 +26,7 @@
      <p>   
     <a href=""><img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"></a>
     <a href=""><img alt=".NET" src="https://img.shields.io/badge/.net%20core-mediumslateblue?&style=for-the-badge&logo=.net&logoColor=white"></a>
-    <a href=""><img alt=".NET" src=" https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=Vue.js&logoColor=fff"></a>
+    <a href=""><img alt="VUEJS" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=Vue.js&logoColor=fff"></a>
     <a href=""><img alt="Docker" src="https://img.shields.io/badge/docker-%23007396.svg?&style=for-the-badge&logo=docker&logoColor=white"></a>
     <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"></a>
     <a href=""><img alt="MongoDB" src="https://img.shields.io/badge/mongodb%20-%2343853D.svg?&style=for-the-badge&logo=mongodb&logoColor=white"></a>
