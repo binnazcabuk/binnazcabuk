@@ -49,7 +49,7 @@
 </p>
 
  <!-- Details Section-->
-<details align="center"> 
+<p align="center"> 
     <br>
       <div align="center">
   <h1>🔥 GitHub Stats And Top Languages </h1>   
@@ -69,7 +69,7 @@
  <a href="mailto:binnazcabuk9@gmail.com"><img height="30" src="https://user-images.githubusercontent.com/34273337/115772352-ae16bb00-a3b7-11eb-848f-475858267f79.png" title="Gmail"></a>&nbsp;&nbsp;&nbsp;
  <a href="https://stackoverflow.com/users/11232255/binnaz-cabuk?tab=profile"><img height="30" src="https://user-images.githubusercontent.com/34273337/115774519-5ded2800-a3ba-11eb-9ed1-68ca5a58525e.png" title="Stack Overflow"></a>&nbsp;&nbsp;&nbsp;
  </p>
-</details>
+</p>
 <br>
  
  
