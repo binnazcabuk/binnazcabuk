@@ -49,8 +49,7 @@
 </p>
 
  <!-- Details Section-->
-<details align="center">
-    <summary> <samp>&#9776; More</samp></summary>   
+<details align="center"> 
     <br>
       <div align="center">
   <h1>🔥 GitHub Stats And Top Languages </h1>   
