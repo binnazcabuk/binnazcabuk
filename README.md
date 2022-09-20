@@ -38,9 +38,8 @@
     <a href=""><img alt="Vscode" src="https://img.shields.io/badge/visual%20studio%20code-dodgerblue?&style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
     <a href=""><img alt="Git" src="https://img.shields.io/badge/G%C4%B0T-tomato?&style=for-the-badge&logo=git&logoColor=white"></a>
     <a href=""><img alt="Vs" src="https://img.shields.io/badge/visual%20studio-dodgerblue?&style=for-the-badge&logo=visual-studio&logoColor=white"></a>
-    <a href=""><img alt="Eclipse" src="https://img.shields.io/badge/eclipse-indigo?&style=for-the-badge&logo=eclipse&logoColor=white"></a>
-    <a href=""><img alt="Netbeans" src="https://img.shields.io/badge/NetBeans%20-%23007ACC.svg?&style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white"></a>
     <a href=""><img alt="Spyder" src="https://img.shields.io/badge/Spyder-gray?&style=for-the-badge&logo=spyder-IDE&logoColor=white"></a>
+    <a href=""><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm%20-%23007ACC.svg?&style=for-the-badge&logo=webstorm&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Portainer" src="https://img.shields.io/badge/portainer-%2314334C?style=for-the-badge&logo=portainer&logoColor=white"></a>
     <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/swagger-%2914334C?style=for-the-badge&logo=swagger&logoColor=white"></a>
