@@ -23,7 +23,7 @@
       </p>
         <!-- Programming Languages -->
         <!-- Code logo -->
-     <p>   
+     <p align="center">   
     <a href=""><img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"></a>
     <a href=""><img alt=".NET" src="https://img.shields.io/badge/.net%20core-mediumslateblue?&style=for-the-badge&logo=.net&logoColor=white"></a>
     <a href=""><img alt="VUEJS" src="https://img.shields.io/badge/VUE-%2914334C?style=for-the-badge&logo=Vue.js&logoColor=white"></a>
