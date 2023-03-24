@@ -11,9 +11,7 @@
 
 <p align="center">
         <!-- Organisation  -->
-        <samp>
-                「 I’m currently developing myself on <b>Software Development</b> 」
-                <br>
+        <samp>               
                 「 I’m currently learning <b>.NET CORE and VueJs</b> 」
                 <br>
                 「 Ask me about anything, I am happy to help 」                
