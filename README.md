@@ -4,7 +4,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt;
-               <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="70px"> ,I'm Binnaz</a> 
+               <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="70px"/> ,I'm Binnaz</a> 
         </samp>
 </h3>
 <br>
