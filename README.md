@@ -1,5 +1,6 @@
 <!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/binnazcabuk)
+<img src="https://komarev.com/ghpvc/?username=binnazcabuk&color=blue&style=plastic">
+
 <!-- Intro  -->
  <img align="left" width="250" height="175" src="https://cdn.dribbble.com/users/1762530/screenshots/7364756/yoga_girl.gif">
 
