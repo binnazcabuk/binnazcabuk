@@ -56,7 +56,8 @@ I am a backend developer. I love writing code on the black screen. I'm giving my
 </p>
 
 <!-- Pinned Repositories -->
-![snake animation](https://github.com/<binnazcabuk>/<binnazcabuk>/blob/output/github-contribution-grid-snake2.svg)
+Generate a [gif](https://github.com/binnazcabuk/binnazcabuk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/binnazcabuk/binnazcabuk/raw/output/github-contribution-grid-snake.svg) image.
+
 
 <!--
 **binnazcabuk/binnazcabuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
